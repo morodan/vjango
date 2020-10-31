@@ -1,7 +1,7 @@
 {
-    "name": "Docker Django VueJs Postgres Template",
+    "name": "Vjango: Docker Django VueJs Template",
     "description": "",
-    "repository": "https://github.com/iprogramstuff/docker-django-vue-postgres-template",
+    "repository": "https://github.com/morodan/vjango",
     "keywords": ["django", "vue", "vuejs", "template", "django rest framework"],
     "env": {
       "DJANGO_SETTINGS_MODULE": {
